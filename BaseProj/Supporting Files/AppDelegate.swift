@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  new
+//  BaseProj
 //
-//  Created by 임은지 on 3/8/24.
+//  Created by 임은지 on 4/3/24.
 //
 
 import UIKit
